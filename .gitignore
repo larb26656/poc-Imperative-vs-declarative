@@ -35,10 +35,6 @@ test-results/
 # TypeScript declaration files in the source code
 **/*.d.ts
 
-# Optional: Personal notes or documentation
-notes/
-*.md
-
 # Other optional files to ignore
 *.bak
 *.swp
